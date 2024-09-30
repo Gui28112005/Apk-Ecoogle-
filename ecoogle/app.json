@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ecoogle",
+    "slug": "ecoogle",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconn.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/iconn.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconn.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gui2545.ecoogle"
+    },
+    "web": {
+      "favicon": "./assets/iconn.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67cd591e-040c-452e-880e-2f06461f677a"
+      }
+    }
+  }
+}
